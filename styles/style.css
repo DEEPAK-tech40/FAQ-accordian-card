@@ -20,7 +20,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 main {
@@ -34,7 +34,7 @@ p {
 .main {
     display: flex;
     width: 65rem;
-    height: 32rem;
+    height: 32.5rem;
     position: relative;
     background-color: var(--cardColor);
     padding: 35px;
@@ -106,7 +106,7 @@ p {
 
 .drop {
     display: none;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .list p:hover,
@@ -131,7 +131,7 @@ p {
     transform: translateX(-35px);
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:700px) {
     .main {
         display: flex;
         flex-direction: column;
