@@ -1,8 +1,7 @@
 let isShown = [false, false, false, false, false];
+const boxEL = document.querySelector(".box");
 
 function show(arrow, group, n) {
-  const dropEl = document.querySelector(`${group}.drop`);
-  const quesEl = document.querySelector(`${group}.ques`);
   if (isShown[n]) {
     dropEl.style.display = "none";
     isShown[n] = false;
@@ -18,7 +17,6 @@ for (let i = 1; i <= 5; i++) {
   const quesEl = document.querySelector(`${group}.ques`);
 
   quesEl.addEventListener("mouseover", function () {
-    const boxEL = document.querySelector(".box");
     boxEL.classList.add("boxHov");
   });
 
