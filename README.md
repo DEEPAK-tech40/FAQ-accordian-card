@@ -4,6 +4,9 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ## Overview
 
+![desktop-preview](https://user-images.githubusercontent.com/94350356/192354775-d6e65c3b-e324-4ba1-892a-db54b02a58db.jpg)
+
+
 ### The challenge
 
 Users should be able to:
@@ -14,9 +17,19 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop-view:
+
+![active-states](https://user-images.githubusercontent.com/94350356/192354832-aee22f94-383e-431e-9631-f21bc16bc24a.jpg)
+
+![desktop-design](https://user-images.githubusercontent.com/94350356/192354858-3cfcf3dd-fb02-4205-bbf8-9197f1c6a7a4.jpg)
+
+Mobile-view:
+
+![mobile-design](https://user-images.githubusercontent.com/94350356/192354918-0d036de5-1c9d-457a-887f-e64af31c0245.jpg)
+
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/faqaccordioncard-ukVfk22bhr)
 - Live Site URL: [Live site](https://deepak-tech40-faq-accordion.netlify.app/)
 
 ## My process
