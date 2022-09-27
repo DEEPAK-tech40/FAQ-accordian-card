@@ -92,6 +92,7 @@ p {
 .arrow {
     margin: 15px 15px 10px auto;
     cursor: pointer;
+    transition: all 0.4s ease;
 }
 
 .line {
@@ -108,6 +109,7 @@ p {
 .drop {
     display: none;
     font-size: 13px;
+    text-align: left;
 }
 
 .list p:hover,
@@ -156,6 +158,7 @@ footer p a {
         height: 36rem;
         overflow: visible;
         margin-top: 150px;
+        font-size: 14px;
     }
 
     .image {
@@ -189,12 +192,16 @@ footer p a {
         margin: 20px;
     }
 
+    .drop {
+        font-size: 12px;
+    }
+
     .boxHov {
         transform: translateX(-15px);
     }
 
     footer {
-        font-size: 15px;
+        font-size: 12px;
     }
 
 }
